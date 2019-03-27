@@ -1,0 +1,14 @@
+C:\Users\r.tavares.da.silva\source\repos\SampleHttpClientAccessTokenApi\SampleHttpClientAccessTokenApi\bin\Debug\netcoreapp2.2\SampleHttpClientAccessTokenApi.deps.json
+C:\Users\r.tavares.da.silva\source\repos\SampleHttpClientAccessTokenApi\SampleHttpClientAccessTokenApi\bin\Debug\netcoreapp2.2\SampleHttpClientAccessTokenApi.runtimeconfig.json
+C:\Users\r.tavares.da.silva\source\repos\SampleHttpClientAccessTokenApi\SampleHttpClientAccessTokenApi\bin\Debug\netcoreapp2.2\SampleHttpClientAccessTokenApi.runtimeconfig.dev.json
+C:\Users\r.tavares.da.silva\source\repos\SampleHttpClientAccessTokenApi\SampleHttpClientAccessTokenApi\bin\Debug\netcoreapp2.2\SampleHttpClientAccessTokenApi.dll
+C:\Users\r.tavares.da.silva\source\repos\SampleHttpClientAccessTokenApi\SampleHttpClientAccessTokenApi\obj\Debug\netcoreapp2.2\SampleHttpClientAccessTokenApi.csprojAssemblyReference.cache
+C:\Users\r.tavares.da.silva\source\repos\SampleHttpClientAccessTokenApi\SampleHttpClientAccessTokenApi\obj\Debug\netcoreapp2.2\SampleHttpClientAccessTokenApi.csproj.CoreCompileInputs.cache
+C:\Users\r.tavares.da.silva\source\repos\SampleHttpClientAccessTokenApi\SampleHttpClientAccessTokenApi\obj\Debug\netcoreapp2.2\SampleHttpClientAccessTokenApi.RazorAssemblyInfo.cache
+C:\Users\r.tavares.da.silva\source\repos\SampleHttpClientAccessTokenApi\SampleHttpClientAccessTokenApi\obj\Debug\netcoreapp2.2\SampleHttpClientAccessTokenApi.RazorAssemblyInfo.cs
+C:\Users\r.tavares.da.silva\source\repos\SampleHttpClientAccessTokenApi\SampleHttpClientAccessTokenApi\obj\Debug\netcoreapp2.2\SampleHttpClientAccessTokenApi.AssemblyInfoInputs.cache
+C:\Users\r.tavares.da.silva\source\repos\SampleHttpClientAccessTokenApi\SampleHttpClientAccessTokenApi\obj\Debug\netcoreapp2.2\SampleHttpClientAccessTokenApi.AssemblyInfo.cs
+C:\Users\r.tavares.da.silva\source\repos\SampleHttpClientAccessTokenApi\SampleHttpClientAccessTokenApi\obj\Debug\netcoreapp2.2\SampleHttpClientAccessTokenApi.RazorTargetAssemblyInfo.cache
+C:\Users\r.tavares.da.silva\source\repos\SampleHttpClientAccessTokenApi\SampleHttpClientAccessTokenApi\bin\Debug\netcoreapp2.2\SampleHttpClientAccessTokenApi.pdb
+C:\Users\r.tavares.da.silva\source\repos\SampleHttpClientAccessTokenApi\SampleHttpClientAccessTokenApi\obj\Debug\netcoreapp2.2\SampleHttpClientAccessTokenApi.dll
+C:\Users\r.tavares.da.silva\source\repos\SampleHttpClientAccessTokenApi\SampleHttpClientAccessTokenApi\obj\Debug\netcoreapp2.2\SampleHttpClientAccessTokenApi.pdb
