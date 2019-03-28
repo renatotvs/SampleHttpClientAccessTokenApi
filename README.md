@@ -1,6 +1,6 @@
 # SampleHttpClientAccessTokenApi
 
-Exemplo de backend para obter token de acesso API Gateway
+Exemplo backend para obter token de acesso API Gateway
 
 + Solução: 
 
